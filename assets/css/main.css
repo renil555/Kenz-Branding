@@ -1102,6 +1102,7 @@ section,
   position: relative;
   background: url('../img/CTA Cover/CTA Cover 4.jpg') center/cover no-repeat;
   background-attachment: fixed; /* Parallax Effect */
+  background-position: 20%;
 }
 
   .call-to-action .container {
