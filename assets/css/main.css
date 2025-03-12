@@ -718,7 +718,7 @@ section,
 
 @media (max-width: 768px) {
   .hero .carousel-container {
-      min-height: 90vh;
+      min-height: 60vh;
   }
 
   .hero h2 {
@@ -1829,4 +1829,11 @@ section,
 .img-showcase {
   max-width: 79%;
   height: auto;
+}
+
+@media (max-width: 768px) { /* Adjust for smaller screens */
+    .mobile-break::before {
+        content: "\A";  /* Forces a line break */
+        white-space: pre;
+    }
 }
