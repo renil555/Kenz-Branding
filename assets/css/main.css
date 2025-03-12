@@ -1100,7 +1100,7 @@ section,
 .call-to-action {
   padding: 80px 0;
   position: relative;
-  background: url('assets/img/Logo/KBF BG Removed.png') center/cover no-repeat;
+  background: url('../assets/img/CTA Cover/CTA Cover 4.jpg') center/cover no-repeat;
   background-attachment: fixed; /* Parallax Effect */
 }
 
